@@ -1,0 +1,120 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CreatureDetailsHelper" preserve="all" />
+    <type fullname="TooltipOnHover" preserve="all" />
+    <type fullname="NotificationHandler" preserve="all" />
+    <type fullname="ResourceController" preserve="all" />
+    <type fullname="MenuLoadHelper" preserve="all" />
+    <type fullname="MovingMapSpawner" preserve="all" />
+    <type fullname="FollowCursor" preserve="all" />
+    <type fullname="SetUpAudio" preserve="all" />
+    <type fullname="CameraFinder" preserve="all" />
+    <type fullname="CreatureHelper" preserve="all" />
+    <type fullname="TurnEvent" preserve="all" />
+    <type fullname="MovingMapElement" preserve="all" />
+    <type fullname="CreateMap" preserve="all" />
+    <type fullname="StatusIcon" preserve="all" />
+    <type fullname="Creature" preserve="all" />
+    <type fullname="LineController" preserve="all" />
+    <type fullname="ChoiceHelper" preserve="all" />
+    <type fullname="MovingCamera" preserve="all" />
+    <type fullname="CreatureTraitHelper" preserve="all" />
+    <type fullname="ReplaceTraitHelper" preserve="all" />
+    <type fullname="Notification" preserve="all" />
+    <type fullname="PanelSelector" preserve="all" />
+    <type fullname="StatusBar" preserve="all" />
+    <type fullname="CreaturePreview" preserve="all" />
+    <type fullname="PartyHelper" preserve="all" />
+    <type fullname="MovementManager" preserve="all" />
+    <type fullname="NodeHelper" preserve="all" />
+    <type fullname="MenuController" preserve="all" />
+    <type fullname="HUDHelper" preserve="all" />
+    <type fullname="TurnHandler" preserve="all" />
+    <type fullname="DmgNumberManager" preserve="all" />
+    <type fullname="SelectionHelper" preserve="all" />
+    <type fullname="FeaturePanel" preserve="all" />
+    <type fullname="BattleManager" preserve="all" />
+    <type fullname="DynamicPanel" preserve="all" />
+    <type fullname="SellHelper" preserve="all" />
+    <type fullname="PickUpHelper" preserve="all" />
+    <type fullname="LoadShop" preserve="all" />
+    <type fullname="SwapHelper" preserve="all" />
+    <type fullname="ShopTraits" preserve="all" />
+    <type fullname="TitleHelper" preserve="all" />
+    <type fullname="ShopScript" preserve="all" />
+    <type fullname="DropHelper" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+  </assembly>
+</linker>
