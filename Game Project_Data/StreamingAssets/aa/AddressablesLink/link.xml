@@ -44,6 +44,7 @@
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
@@ -61,6 +62,7 @@
     <type fullname="AdminCanvas" preserve="all" />
     <type fullname="Client" preserve="all" />
     <type fullname="CreatureHover" preserve="all" />
+    <type fullname="TooltipOnHover" preserve="all" />
     <type fullname="ResourceController" preserve="all" />
     <type fullname="FeaturePanel" preserve="all" />
     <type fullname="FollowCursor" preserve="all" />
@@ -73,7 +75,6 @@
     <type fullname="StatusBar" preserve="all" />
     <type fullname="TurnHandler" preserve="all" />
     <type fullname="DmgNumberManager" preserve="all" />
-    <type fullname="TooltipOnHover" preserve="all" />
     <type fullname="SellHelper" preserve="all" />
     <type fullname="PickUpHelper" preserve="all" />
     <type fullname="LoadShop" preserve="all" />
