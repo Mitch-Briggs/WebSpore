@@ -10,13 +10,13 @@
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Material" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
-    <type fullname="UnityEngine.Material" preserve="all" />
-    <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Cubemap" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.Light" preserve="all" />
@@ -77,13 +77,15 @@
     <type fullname="DmgNumberManager" preserve="all" />
     <type fullname="SellHelper" preserve="all" />
     <type fullname="PickUpHelper" preserve="all" />
+    <type fullname="CreatureManager" preserve="all" />
     <type fullname="LoadShop" preserve="all" />
     <type fullname="SwapHelper" preserve="all" />
     <type fullname="ShopTraits" preserve="all" />
     <type fullname="TitleHelper" preserve="all" />
     <type fullname="ShopScript" preserve="all" />
     <type fullname="DropHelper" preserve="all" />
-    <type fullname="CreaturePreview" preserve="all" />
+    <type fullname="GreyScaler" preserve="all" />
+    <type fullname="CreatureController" preserve="all" />
     <type fullname="CreatureDetailsHelper" preserve="all" />
     <type fullname="NotificationHandler" preserve="all" />
     <type fullname="MenuLoadHelper" preserve="all" />
@@ -101,6 +103,7 @@
     <type fullname="ReplaceTraitHelper" preserve="all" />
     <type fullname="Notification" preserve="all" />
     <type fullname="PanelSelector" preserve="all" />
+    <type fullname="CreaturePreview" preserve="all" />
     <type fullname="PartyHelper" preserve="all" />
     <type fullname="MovementManager" preserve="all" />
     <type fullname="NodeHelper" preserve="all" />
